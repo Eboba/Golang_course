@@ -12,7 +12,6 @@ func main() {
 	var Eudder int = 49
 	var Wing int = 21
 	var Rain int = 17
-	var Bain int = 17
 
 	fmt.Println("==============")
 	fmt.Println("Супер Гонки", "Круг", CircleNumber)
