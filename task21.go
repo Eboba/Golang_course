@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func task21() {
 	var CircleNumber int = 4
 	var Speed int = 358
 	var Engine int = 254
